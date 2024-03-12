@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\data\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:data\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|c:\\users\\shagunrathore\\documents\\github\\.netcourse\\webapplication1\\migrations\\20240312080726_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74D68-650F-49B9-9432-E1518807CE6F}|BookStoreApi.csproj|solutionrelative:migrations\\20240312080726_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "Repository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:41:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:13:44.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:36:26.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:32:49.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:30:26.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240312080726_init.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Migrations\\20240312080726_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240312080726_init.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Migrations\\20240312080726_init.cs",
+              "RelativeToolTip": "Migrations\\20240312080726_init.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:07:26.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Data\\Books.cs",
+              "RelativeDocumentMoniker": "Data\\Books.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Data\\Books.cs",
+              "RelativeToolTip": "Data\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:47:43.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:32:53.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T07:43:28.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Data\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookStoreContext.cs",
+              "ToolTip": "C:\\Users\\ShagunRathore\\Documents\\GitHub\\.NETcourse\\WebApplication1\\Data\\BookStoreContext.cs",
+              "RelativeToolTip": "Data\\BookStoreContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:37:14.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
